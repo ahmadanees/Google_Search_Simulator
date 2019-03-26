@@ -11,6 +11,7 @@ Design of code is such that user is prompted with successive questions as follow
 7.	Please enter the URL you wish to add:
 8.	Do you wish to view the first ranked web url link? [enter 1 for yes or 0 for exit]:
 9.	Do you wish to start a new search? [enter 1 for yes or 0 to end program]:
+
 If user enters 0 when prompted, the program will skip to the next question. For question 9 if 0 is entered the program will be terminated.
 
 List of classes/subroutines/function calls:
