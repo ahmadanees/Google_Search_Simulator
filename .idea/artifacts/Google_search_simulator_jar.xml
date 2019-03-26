@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Google search simulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Google_search_simulator_jar</output-path>
+    <root id="archive" name="Google search simulator.jar">
+      <element id="module-output" name="Google search simulator" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk1.8.0_121/lib/jsoup-1.11.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
